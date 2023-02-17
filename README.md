@@ -2,4 +2,4 @@
 
 Below are links to solutions within the repo with brief descriptions of each:
 
-[Simple Automation Demo using Dataloop FaaS for OCR]()
+[Simple Automation Demo using Dataloop FaaS for OCR](https://github.com/dataloop-ai-apps/faas-ocr-demo)
